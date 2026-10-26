@@ -1,5 +1,5 @@
 <a href="https://pravinbokare.github.io">
-  <img src="https://pravinbokare.github.io/assets/github-banner.svg" alt="Pravin Bokare, Data Engineer and Forward Deployed Engineer. Click to open my interactive portfolio." width="100%" />
+  <img src="https://pravinbokare.github.io/assets/github-banner.svg" alt="Pravin Bokare, Data Engineer. Click to open my interactive portfolio." width="100%" />
 </a>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ### Hi, I'm Pravin 👋
 
-Data Engineer building **real-time, governed and AI-ready** platforms on Databricks, Azure & AWS. Open to **Data Engineer** and **Forward Deployed Engineer** roles.
+Data Engineer building **real-time, governed and AI-ready** platforms on Databricks, Azure & AWS. Open to **Data Engineer** roles, and also to Forward Deployed Engineer roles.
 
 - ⚡ Kafka + Spark Structured Streaming pipelines processing **360M+ events/day**
 - 🏗️ Medallion lakehouses ingesting **100+ GB/day**; **5+ PB** migrated to the cloud
